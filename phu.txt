@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thinh
+=======
+phupham
+>>>>>>> origin/thinh_branch
